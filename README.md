@@ -1,7 +1,7 @@
-# single-app
-Esse repositório contém os arquivos do **front-end** do projeto Algamoney, construído e ensinado pela [AlgaWorks](https://www.algaworks.com/) no curso **Fullstack Angular e Spring**.<br>O Algamoney é um software para controle e acompanhamento financeiro de receitas e despesas.<br>
+# Single-app
+Esse repositório contém os arquivos do **front-end** do projeto single-app, construído e ensinado por Francisco Moura.<br>O single-app é um software para controle e acompanhamento financeiro de receitas e despesas.<br>
 
-[**Veja também o repositório com a API do back-end.**](https://github.com/israelferreira/algamoney-api)
+[**Veja também o repositório com a API do back-end.**](https://github.com/speedrun4/single-app-api)
 
 <br>Ele foi desenvolvido com as seguintes tecnologias:
 
@@ -35,10 +35,10 @@ Para executar o projeto é necessário acessar o diretório **single-app** usand
 Para iniciar o servidor de desenvolvimento, use o comando `ng serve`, a URL que deve ser acessada no navegador é [http://localhost:4200/](http://localhost:4200/).
 Para colocar em produção, é necessário configurar o ambiente do projeto. Configure o arquivo src/environments/environment.prod.ts com a URL da API do Spring Boot.
 Agora, de volta no Angular CLI, use o comando `ng build --prod`,  os arquivos do build ficam armazenados na pasta `dist/`.
-Para o software algamoney funcionar corretamente, a API REST do back-end precisa estar em execução.
+Para o software single-app funcionar corretamente, a API REST do back-end precisa estar em execução.
 
 ---
 ### Autor
 
-Feito por Israel Ferreira. 👋🏽 Entre em contato!
-[![Email Badge](https://img.shields.io/badge/-israelferreira5@outlook.com-c14438?style=for-the-badge&color=blue&link=mailto:israelferreira5@outlook.com)](mailto:israelferreira5@outlook.com)
+Feito por Francisco Moura. 👋🏽 Entre em contato!
+11 981912734 mourajuniorf@gmail.com
