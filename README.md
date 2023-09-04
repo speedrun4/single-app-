@@ -1,12 +1,12 @@
 # Single-app
-Esse repositório contém os arquivos do **front-end** do projeto Algamoney, construído e ensinado pela [AlgaWorks](https://www.algaworks.com/) no curso **Fullstack Angular e Spring**.<br>O Algamoney é um software para controle e acompanhamento financeiro de receitas e despesas.<br>
+Esse repositório contém os arquivos do **front-end** do projeto speedrun4, construído e ensinado pela [AlgaWorks](https://www.algaworks.com/) no curso **Fullstack Angular e Spring**.<br>O single-app é um software para controle e acompanhamento financeiro de receitas e despesas.<br>
 
-[**Veja também o repositório com a API do back-end.**](https://github.com/israelferreira/algamoney-api)
+[**Veja também o repositório com a API do back-end.**](https://github.com/speedrun4/single-app-api)
 
 <br>Ele foi desenvolvido com as seguintes tecnologias:
 
  - Back-end: **API REST** com o framework **Spring Boot** 2.5 no **Java** 16
- - Front-end: Single-Page Application (SPA) com **Angular** 10
+ - Front-end: Single-Page Application (SPA) com **Angular** 14
  - Biblioteca de componentes **PrimeNG** na interface de usuário
  - Autenticação e autorização de usuário com **OAuth 2** e **JWT** (JSON Web Token)
  - Banco de dados **MariaDB** 10+
