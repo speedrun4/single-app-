@@ -17,7 +17,6 @@ Esse repositório contém os arquivos do **front-end** do projeto single-app, co
  
  ## Screenshots
 **Página de login**
-![login](https://user-images.githubusercontent.com/37079133/89472087-00467c00-d756-11ea-9120-b064a0d19c3e.PNG)<br><br>**Dashboard com gráficos de pizza e linha com informações dos lançamentos do último mês**
 ![dashboard](https://user-images.githubusercontent.com/37079133/89472083-ffade580-d755-11ea-9c06-b71dfe2e6914.png)<br><br>**Página de edição de uma pessoa**
 ![editing person](https://user-images.githubusercontent.com/37079133/89472091-02103f80-d756-11ea-82c9-c0c28306803d.PNG)<br><br>**Inserindo informações de contato no registro de uma pessoa**
 ![person contact](https://user-images.githubusercontent.com/37079133/89472088-00df1280-d756-11ea-9db9-c02444c8cadd.PNG)<br><br>**Registrando um lançamento financeiro de receita**
