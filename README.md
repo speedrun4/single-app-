@@ -1,4 +1,4 @@
-# Algamoney-ui
+# single-app
 Esse repositório contém os arquivos do **front-end** do projeto Algamoney, construído e ensinado pela [AlgaWorks](https://www.algaworks.com/) no curso **Fullstack Angular e Spring**.<br>O Algamoney é um software para controle e acompanhamento financeiro de receitas e despesas.<br>
 
 [**Veja também o repositório com a API do back-end.**](https://github.com/israelferreira/algamoney-api)
@@ -30,8 +30,8 @@ Esse repositório contém os arquivos do **front-end** do projeto Algamoney, con
 ## Como executar o projeto
 
 Para o front-end funcionar, o [Node.js](https://nodejs.org) e o NPM (Node package manager) devem estar instalados no computador.
-Clone esse projeto usando o git, o comando é: `git clone https://github.com/israelferreira/algamoney-ui`.
-Para executar o projeto é necessário acessar o diretório **algamoney-ui** usando o Prompt de Comandos do Node.js e baixar as dependências com o comando `npm install`.
+Clone esse projeto usando o git, o comando é: `git clone https://github.com/israelferreira/single-app`.
+Para executar o projeto é necessário acessar o diretório **single-app** usando o Prompt de Comandos do Node.js e baixar as dependências com o comando `npm install`.
 Para iniciar o servidor de desenvolvimento, use o comando `ng serve`, a URL que deve ser acessada no navegador é [http://localhost:4200/](http://localhost:4200/).
 Para colocar em produção, é necessário configurar o ambiente do projeto. Configure o arquivo src/environments/environment.prod.ts com a URL da API do Spring Boot.
 Agora, de volta no Angular CLI, use o comando `ng build --prod`,  os arquivos do build ficam armazenados na pasta `dist/`.

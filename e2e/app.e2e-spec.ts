@@ -1,6 +1,6 @@
 import { AlgamoneyUiPage } from './app.po';
 
-describe('algamoney-ui App', () => {
+describe('single-app App', () => {
   let page: AlgamoneyUiPage;
 
   beforeEach(() => {

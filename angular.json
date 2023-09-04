@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "algamoney-ui": {
+    "single-app": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -61,18 +61,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "algamoney-ui:build"
+            "browserTarget": "single-app:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "algamoney-ui:build:production"
+              "browserTarget": "single-app:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "algamoney-ui:build"
+            "browserTarget": "single-app:build"
           }
         },
         "test": {
@@ -107,7 +107,7 @@
         }
       }
     },
-    "algamoney-ui-e2e": {
+    "single-app-e2e": {
       "root": "e2e",
       "sourceRoot": "e2e",
       "projectType": "application",
@@ -116,7 +116,7 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "./protractor.conf.js",
-            "devServerTarget": "algamoney-ui:serve"
+            "devServerTarget": "single-app:serve"
           }
         },
         "lint": {
@@ -131,7 +131,7 @@
       }
     }
   },
-  "defaultProject": "algamoney-ui",
+  "defaultProject": "single-app",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",
