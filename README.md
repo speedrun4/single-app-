@@ -1,4 +1,4 @@
-# Algamoney-ui
+# Single-app
 Esse repositório contém os arquivos do **front-end** do projeto Algamoney, construído e ensinado pela [AlgaWorks](https://www.algaworks.com/) no curso **Fullstack Angular e Spring**.<br>O Algamoney é um software para controle e acompanhamento financeiro de receitas e despesas.<br>
 
 [**Veja também o repositório com a API do back-end.**](https://github.com/israelferreira/algamoney-api)
