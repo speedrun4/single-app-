@@ -1,10 +1,17 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'single-app';
+
+  constructor(private router: Router) { }
+
+  showingNavbar() {
+    return this.router.url !== '/login';
+  }
+
 }
