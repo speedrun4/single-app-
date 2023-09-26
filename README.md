@@ -29,7 +29,7 @@ Esse repositório contém os arquivos do **front-end** do projeto single-app, co
 ## Como executar o projeto
 
 Para o front-end funcionar, o [Node.js](https://nodejs.org) e o NPM (Node package manager) devem estar instalados no computador.
-Clone esse projeto usando o git, o comando é: `git clone https://github.com/israelferreira/single-app`.
+Clone esse projeto usando o git, o comando é: `git clone https://github.com/speedrun4/single-app-
 Para executar o projeto é necessário acessar o diretório **single-app** usando o Prompt de Comandos do Node.js e baixar as dependências com o comando `npm install`.
 Para iniciar o servidor de desenvolvimento, use o comando `ng serve`, a URL que deve ser acessada no navegador é [http://localhost:4200/](http://localhost:4200/).
 Para colocar em produção, é necessário configurar o ambiente do projeto. Configure o arquivo src/environments/environment.prod.ts com a URL da API do Spring Boot.
